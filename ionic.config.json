@@ -1,0 +1,7 @@
+{
+  "name": "surfshop-firebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
